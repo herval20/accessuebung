@@ -15,7 +15,7 @@
 <div class="h-24"></div>
 
 
-<div class="content-wrapper relative top-125 left-230 top-110 left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-white/80 rounded shadow-md p-10 text-center max-w-3xl">
+<div class="relcontent-wrapper relative top-125 left-230 top-110 left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-white/80 rounded shadow-md p-10 text-center max-w-3xl mt-20">
     <h1 class="text-5xl font-bold" style="color: #735DA5;">Animation und Bewegung</h1>
   
     <p class="text-lg text-gray-700 mb-4">
