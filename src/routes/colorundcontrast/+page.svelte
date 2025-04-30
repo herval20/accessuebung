@@ -2,19 +2,6 @@
 <style>
     .bg-rainbow {
       background-image: linear-gradient(-60deg, #735DA5 50%, #D3C5E5 50%);
-      animation: slide 9s ease-in-out infinite alternate;
-      animation-play-state: running;
-    }
-    .bg-rainbow2 {
-      animation-direction: alternate-reverse;
-      animation-duration: 10s;
-    }
-    .bg-rainbow3 {
-      animation-duration: 11s;
-    }
-
-    .content-wrapper {
-      margin-top: 80px;
     }
 </style>
   
